@@ -1,0 +1,8 @@
+CONSUMER_KEY = ''
+CONSUMER_SECRET = ''
+ACCESS_TOKEN = ''
+ACCESS_TOKEN_SECRET = ''
+USERNAME = 'obeattie'
+LIST_ID = 'list-id-here'
+PUSH_TOKEN = ''
+ACTION_URL = 'tweetbot://'
