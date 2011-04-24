@@ -5,7 +5,7 @@ Dependencies
 
 * oauth2 from http://github.com/simplegeo/python-oauth2
 * Python >= 2.6
-* The "Push" app installed on your iPhone (from http://itunes.apple.com/app/push-3-0/id350973572)
+* The ["Push" app](http://itunes.apple.com/app/push-3-0/id350973572) installed on your iPhone
 
 Instructions
 ------------
